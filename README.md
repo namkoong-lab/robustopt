@@ -1,6 +1,6 @@
 # RobustOpt
 
-Code for solving robust stochastic---or, distributionally robust---optimization problems with f-divergences.
+Code for solving robust stochastic---or distributionally robust---optimization problems with f-divergences.
 
 
 ## Efficient computation of full-batch gradient for the robust loss
